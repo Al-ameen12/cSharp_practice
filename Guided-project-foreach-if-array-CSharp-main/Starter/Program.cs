@@ -121,7 +121,7 @@ foreach (string name in studentNames)
 // required for running in VS Code (keeps the Output windows open to view results)
 Console.WriteLine("Press the Enter key to continue");
 Console.ReadLine();
-
+// Below code were hardcoded and was improved with the above code
 // int sophia1 = 90;
 // int sophia2 = 86;
 // int sophia3 = 87;
